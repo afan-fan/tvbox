@@ -8,19 +8,19 @@
 
 | 版本 | 地址 | 说明 |
 |---|---|---|
-| **全量** | `https://cdn.jsdelivr.net/gh/USER/REPO@main/tvbox.json` | 48 个实测存活单仓，资源最全 |
-| **国内优先** | `https://cdn.jsdelivr.net/gh/USER/REPO@main/tvbox-lite.json` | 16 条不含 raw.githubusercontent 直链，国内加载快 |
-| **极简** | `https://cdn.jsdelivr.net/gh/USER/REPO@main/tvbox-mini.json` | 8 条，低配盒子 / 老人机首选 |
+| **全量** | `https://cdn.jsdelivr.net/gh/afan-fan/tvbox@main/tvbox.json` | 48 个实测存活单仓，资源最全 |
+| **国内优先** | `https://cdn.jsdelivr.net/gh/afan-fan/tvbox@main/tvbox-lite.json` | 16 条不含 raw.githubusercontent 直链，国内加载快 |
+| **极简** | `https://cdn.jsdelivr.net/gh/afan-fan/tvbox@main/tvbox-mini.json` | 8 条，低配盒子 / 老人机首选 |
 
-把 `USER/REPO` 换成你自己的账号和仓库名（push 脚本会自动打印真实地址）。
+把 `afan-fan/tvbox` 换成你自己的账号和仓库名（push 脚本会自动打印真实地址）。
 
 备用前缀（jsDelivr 不通时换任意一条，内容完全一样）：
 
 ```
-https://raw.githubusercontent.com/USER/REPO/main/tvbox.json
-https://gh-proxy.com/https://raw.githubusercontent.com/USER/REPO/main/tvbox.json
-https://ghfast.top/https://raw.githubusercontent.com/USER/REPO/main/tvbox.json
-https://ghproxy.net/https://raw.githubusercontent.com/USER/REPO/main/tvbox.json
+https://raw.githubusercontent.com/afan-fan/tvbox/main/tvbox.json
+https://gh-proxy.com/https://raw.githubusercontent.com/afan-fan/tvbox/main/tvbox.json
+https://ghfast.top/https://raw.githubusercontent.com/afan-fan/tvbox/main/tvbox.json
+https://ghproxy.net/https://raw.githubusercontent.com/afan-fan/tvbox/main/tvbox.json
 ```
 
 ## 二、导入步骤
