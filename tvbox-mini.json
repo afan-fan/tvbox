@@ -1,0 +1,36 @@
+{
+  "urls": [
+    {
+      "name": "宝盒4K [90KB]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json"
+    },
+    {
+      "name": "业余 [84KB]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
+    },
+    {
+      "name": "分享者 [74KB]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/001.json"
+    },
+    {
+      "name": "小苹果 [74KB]",
+      "url": "https://kjsc0310.github.io/tvy/jk9.json"
+    },
+    {
+      "name": "刘备 [49KB]",
+      "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "name": "摸鱼 [46KB]",
+      "url": "https://play.iptv365.org/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json"
+    },
+    {
+      "name": "南风3 [45KB]",
+      "url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json"
+    },
+    {
+      "name": "宝盒VIP [41KB]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
+    }
+  ]
+}
