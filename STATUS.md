@@ -1,8 +1,8 @@
 # 探活结果
 
-最近更新：2026-11-16 17:40 (UTC+8)
+最近更新：2026-11-17 10:42 (UTC+8)
 
-存活 **48** / 48
+存活 **47** / 48
 
 ## 存活
 
@@ -30,7 +30,6 @@
 | 盒子4K [28KB] | 27 KB | `http://xhztv.top/4k.json` |
 | 小马 [28KB] | 27 KB | `https://szyyds.cn/tv/x.json` |
 | 茄子库 [25KB] | 25 KB | `https://700sjro44343.vicp.fun/eggp/qzku/tv.json` |
-| 短剧2 [25KB] | 25 KB | `http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json` |
 | 潇洒 [25KB] | 25 KB | `https://qist.wyfc.qzz.io/xiaosa/api.json` |
 | 余生 [24KB] | 24 KB | `https://ysys.lic10.cn/ys/` |
 | 香雅情 [23KB] | 23 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` |
@@ -61,3 +60,4 @@
 
 | 单仓 | 原因 | 地址 |
 |---|---|---|
+| 短剧2 [25KB] | URLError | `http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json` |
