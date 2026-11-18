@@ -41,10 +41,6 @@
       "url": "https://play.iptv365.org/OK/api.json"
     },
     {
-      "name": "摸鱼儿 [35KB]",
-      "url": "https://6800.kstore.vip/fish.json"
-    },
-    {
       "name": "七夏 [34KB]",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json"
     },
@@ -57,12 +53,16 @@
       "url": "https://www.252035.xyz/p/jsm.json"
     },
     {
-      "name": "王二小 [32KB]",
-      "url": "https://9280.kstore.vip/newwex.json"
-    },
-    {
       "name": "菜妮丝2 [32KB]",
       "url": "https://play.iptv365.org/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json"
+    },
+    {
+      "name": "神仙 [31KB]",
+      "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json"
+    },
+    {
+      "name": "盒子4K [28KB]",
+      "url": "http://xhztv.top/4k.json"
     }
   ]
 }

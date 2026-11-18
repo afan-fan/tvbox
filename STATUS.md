@@ -1,8 +1,8 @@
 # 探活结果
 
-最近更新：2026-11-17 10:42 (UTC+8)
+最近更新：2026-11-18 09:58 (UTC+8)
 
-存活 **47** / 48
+存活 **44** / 47
 
 ## 存活
 
@@ -20,10 +20,8 @@
 | 宝盒VIP [41KB] | 41 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json` |
 | clun-fun [37KB] | 37 KB | `https://clun.top/fun.json` |
 | OK杰克 [36KB] | 36 KB | `https://play.iptv365.org/OK/api.json` |
-| 摸鱼儿 [35KB] | 35 KB | `https://6800.kstore.vip/fish.json` |
 | 七夏 [34KB] | 34 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json` |
 | 南风2 [33KB] | 33 KB | `https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json` |
-| 王二小 [32KB] | 32 KB | `https://9280.kstore.vip/newwex.json` |
 | PG [32KB] | 32 KB | `https://www.252035.xyz/p/jsm.json` |
 | 菜妮丝2 [32KB] | 32 KB | `https://play.iptv365.org/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json` |
 | 神仙 [31KB] | 31 KB | `http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json` |
@@ -47,7 +45,6 @@
 | 荷城茶秀 [16KB] | 15 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json` |
 | 挺好 [15KB] | 15 KB | `http://ztha.top/TVBox/thdjk.json` |
 | 俊于 [14KB] | 14 KB | `http://home.jundie.top:81/top98.json` |
-| 嗷呜 [14KB] | 14 KB | `https://9763.kstore.vip/aowu.json` |
 | 卧龙 [13KB] | 13 KB | `https://pastebin.com/raw/gtbKvnE1` |
 | 饭太硬 [11KB] | 11 KB | `https://qist.wyfc.qzz.io/fty.json` |
 | 荷城茶秀3 [11KB] | 11 KB | `https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json` |
@@ -60,4 +57,6 @@
 
 | 单仓 | 原因 | 地址 |
 |---|---|---|
-| 短剧2 [25KB] | URLError | `http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json` |
+| 摸鱼儿 [35KB] | URLError | `https://6800.kstore.vip/fish.json` |
+| 王二小 [32KB] | URLError | `https://9280.kstore.vip/newwex.json` |
+| 嗷呜 [14KB] | URLError | `https://9763.kstore.vip/aowu.json` |
