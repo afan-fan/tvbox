@@ -1,8 +1,8 @@
 # 探活结果
 
-最近更新：2026-11-18 09:58 (UTC+8)
+最近更新：2026-11-19 09:34 (UTC+8)
 
-存活 **44** / 47
+存活 **44** / 44
 
 ## 存活
 
@@ -57,6 +57,3 @@
 
 | 单仓 | 原因 | 地址 |
 |---|---|---|
-| 摸鱼儿 [35KB] | URLError | `https://6800.kstore.vip/fish.json` |
-| 王二小 [32KB] | URLError | `https://9280.kstore.vip/newwex.json` |
-| 嗷呜 [14KB] | URLError | `https://9763.kstore.vip/aowu.json` |
