@@ -1,6 +1,6 @@
 # 探活结果
 
-最近更新：2026-11-22 07:59 (UTC+8)
+最近更新：2026-11-23 08:32 (UTC+8)
 
 存活 **44** / 44
 
@@ -27,8 +27,8 @@
 | 神仙 [31KB] | 31 KB | `http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json` |
 | 盒子4K [28KB] | 27 KB | `http://xhztv.top/4k.json` |
 | 小马 [28KB] | 27 KB | `https://szyyds.cn/tv/x.json` |
+| 茄子库 [25KB] | 26 KB | `https://700sjro44343.vicp.fun/eggp/qzku/tv.json` |
 | 潇洒 [25KB] | 26 KB | `https://qist.wyfc.qzz.io/xiaosa/api.json` |
-| 茄子库 [25KB] | 25 KB | `https://700sjro44343.vicp.fun/eggp/qzku/tv.json` |
 | 余生 [24KB] | 24 KB | `https://ysys.lic10.cn/ys/` |
 | 香雅情 [23KB] | 23 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` |
 | 肥猫(临时) [21KB] | 21 KB | `https://play.iptv365.org/%E8%82%A5%E7%8C%AB/api.json` |
