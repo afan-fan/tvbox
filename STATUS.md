@@ -1,8 +1,8 @@
 # 探活结果
 
-最近更新：2026-11-25 11:16 (UTC+8)
+最近更新：2026-11-26 10:33 (UTC+8)
 
-存活 **44** / 44
+存活 **43** / 44
 
 ## 存活
 
@@ -27,6 +27,7 @@
 | 神仙 [31KB] | 31 KB | `http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json` |
 | 盒子4K [28KB] | 27 KB | `http://xhztv.top/4k.json` |
 | 小马 [28KB] | 27 KB | `https://szyyds.cn/tv/x.json` |
+| 茄子库 [25KB] | 26 KB | `https://700sjro44343.vicp.fun/eggp/qzku/tv.json` |
 | 潇洒 [25KB] | 26 KB | `https://qist.wyfc.qzz.io/xiaosa/api.json` |
 | 余生 [24KB] | 24 KB | `https://ysys.lic10.cn/ys/` |
 | 香雅情 [23KB] | 23 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` |
@@ -37,13 +38,11 @@
 | 小盒子 [18KB] | 18 KB | `http://xhztv.top/xhz/` |
 | 公众号【武志红的杂货铺】 [17KB] | 17 KB | `https://dxawi.github.io/0/0.json` |
 | dxawi [17KB] | 17 KB | `http://dxawi.github.io/0/0.json` |
-| 荷城茶秀(备用) [17KB] | 17 KB | `https://jihulab.com/z-blog/xh2/raw/main/t.json` |
 | tv(FongMi) [17KB] | 17 KB | `https://www.252035.xyz/z/FongMi.json` |
 | 小米2 [17KB] | 17 KB | `https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json` |
 | ls660飞猫 [16KB] | 16 KB | `https://www.ls660.com/TV/feimao.json` |
 | 荷城茶秀 [16KB] | 15 KB | `https://gh-proxy.com/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json` |
 | 挺好 [15KB] | 15 KB | `http://ztha.top/TVBox/thdjk.json` |
-| 茄子库 [25KB] | 15 KB | `https://700sjro44343.vicp.fun/eggp/qzku/tv.json` |
 | 俊于 [14KB] | 14 KB | `http://home.jundie.top:81/top98.json` |
 | 卧龙 [13KB] | 13 KB | `https://pastebin.com/raw/gtbKvnE1` |
 | 饭太硬 [11KB] | 11 KB | `https://qist.wyfc.qzz.io/fty.json` |
@@ -57,3 +56,4 @@
 
 | 单仓 | 原因 | 地址 |
 |---|---|---|
+| 荷城茶秀(备用) [17KB] | HTTP 429 | `https://jihulab.com/z-blog/xh2/raw/main/t.json` |
